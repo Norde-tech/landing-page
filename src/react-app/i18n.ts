@@ -8,37 +8,37 @@ export const translations = {
       contact: "Contact",
     },
     hero: {
-      title: "Building Digital Solutions",
+      title: "Reusable Blocks. Custom Solutions.",
       subtitle:
-        "Software development, consulting, and SaaS products that drive your business forward.",
+        "Norde-blocks is a library of production-ready web components. We also provide custom web consulting and engineering services.",
       cta: "Get in Touch",
     },
     about: {
       title: "About Us",
       description:
-        "Norde Tech is a technology company specializing in custom software development, IT consulting, and scalable SaaS solutions. We help businesses of all sizes transform their ideas into powerful digital products.",
+        "Norde Tech builds Norde-blocks — a library of reusable, customizable web components that accelerate your development. We also offer custom consulting and engineering services to help you build exceptional web products.",
       stats: {
-        projects: "Projects Delivered",
+        projects: "Components Built",
         clients: "Happy Clients",
         years: "Years of Experience",
       },
     },
     services: {
-      title: "Our Services",
+      title: "What We Do",
       dev: {
-        title: "Software Development",
+        title: "Norde-blocks",
         description:
-          "Custom web and mobile applications built with modern technologies. From MVPs to enterprise-grade systems.",
+          "A growing library of production-ready, customizable web components. Drop them into any project or customize them to fit your needs.",
       },
       consulting: {
-        title: "IT Consulting",
+        title: "Custom Development",
         description:
-          "Strategic technology guidance to optimize your infrastructure, processes, and digital transformation journey.",
+          "End-to-end web development services. From architecture to deployment, we build robust, scalable web applications tailored to your requirements.",
       },
       saas: {
-        title: "SaaS Products",
+        title: "Web Consulting",
         description:
-          "Scalable cloud-based solutions designed to streamline operations and boost productivity for your team.",
+          "Strategic guidance for your web projects. We help with architecture decisions, tech stack selection, code reviews, and team augmentation.",
       },
     },
     contact: {
@@ -64,37 +64,37 @@ export const translations = {
       contact: "Контакти",
     },
     hero: {
-      title: "Створюємо цифрові рішення",
+      title: "Компоненти для повторного використання. Індивідуальні рішення.",
       subtitle:
-        "Розробка програмного забезпечення, консалтинг та SaaS продукти, які рухають ваш бізнес вперед.",
+        "Norde-blocks — це бібліотека готових до продакшену веб-компонентів. Ми також надаємо кастомні консалтингові та інженерні послуги з веб-розробки.",
       cta: "Зв'язатися",
     },
     about: {
       title: "Про нас",
       description:
-        "Norde Tech — технологічна компанія, що спеціалізується на розробці програмного забезпечення, IT-консалтингу та масштабованих SaaS рішеннях. Ми допомагаємо бізнесам будь-якого розміру перетворювати ідеї на потужні цифрові продукти.",
+        "Norde Tech створює Norde-blocks — бібліотеку багаторазових, налаштовуваних веб-компонентів, що прискорюють вашу розробку. Ми також пропонуємо кастомні консалтингові та інженерні послуги для створення видатних веб-продуктів.",
       stats: {
-        projects: "Реалізованих проєктів",
+        projects: "Компонентів створено",
         clients: "Задоволених клієнтів",
         years: "Років досвіду",
       },
     },
     services: {
-      title: "Наші сервіси",
+      title: "Що ми робимо",
       dev: {
-        title: "Розробка ПЗ",
+        title: "Norde-blocks",
         description:
-          "Веб та мобільні додатки на сучасних технологіях. Від MVP до корпоративних систем.",
+          "Зростаюча бібліотека готових до продакшену веб-компонентів. Інтегруйте їх у будь-який проєкт або налаштуйте під свої потреби.",
       },
       consulting: {
-        title: "IT Консалтинг",
+        title: "Кастомна розробка",
         description:
-          "Стратегічні технологічні рекомендації для оптимізації інфраструктури, процесів та цифрової трансформації.",
+          "Послуги з веб-розробки від архітектури до деплойменту. Ми створюємо надійні, масштабовані веб-додатки, адаптовані до ваших вимог.",
       },
       saas: {
-        title: "SaaS Продукти",
+        title: "Веб-консалтинг",
         description:
-          "Масштабовані хмарні рішення для оптимізації операцій та підвищення продуктивності вашої команди.",
+          "Стратегічні консультації для ваших веб-проєктів. Допомагаємо з архітектурними рішеннями, вибором технологій, код-рев'ю та розширенням команди.",
       },
     },
     contact: {
