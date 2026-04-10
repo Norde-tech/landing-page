@@ -161,7 +161,7 @@ function App() {
               <div className="contact-details">
                 <div className="contact-detail">
                   <div className="contact-detail-icon">&#9993;</div>
-                  <span>contact@norde-tech.com</span>
+                  <span>hello@norde-tech.com</span>
                 </div>
         
                 <div className="contact-detail">
