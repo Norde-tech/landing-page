@@ -161,15 +161,12 @@ function App() {
               <div className="contact-details">
                 <div className="contact-detail">
                   <div className="contact-detail-icon">&#9993;</div>
-                  <span>info@nordetech.com</span>
+                  <span>contact@norde-tech.com</span>
                 </div>
-                <div className="contact-detail">
-                  <div className="contact-detail-icon">&#9742;</div>
-                  <span>+380 (XX) XXX-XX-XX</span>
-                </div>
+        
                 <div className="contact-detail">
                   <div className="contact-detail-icon">&#9873;</div>
-                  <span>Kyiv, Ukraine</span>
+                  <span>Lviv, Ukraine</span>
                 </div>
               </div>
             </div>
